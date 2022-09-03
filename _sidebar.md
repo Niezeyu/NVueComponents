@@ -3,5 +3,5 @@
     - [入门](/)
 
 * 组件
-    - [遮罩层](components/Overlay.md)
+    - [遮罩层](Overlay.md)
 
